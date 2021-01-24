@@ -1,0 +1,27 @@
+[
+  {
+    "from": 0,
+    "to": 19.0,
+    "status": "Abaixo do peso"
+  },
+  {
+    "from": 19.1,
+    "to": 25.8,
+    "status": "Peso ideal"
+  },
+  {
+    "from": 25.9,
+    "to": 27.3,
+    "status": "Pouco acima do peso"
+  },
+  {
+    "from": 27.4,
+    "to": 32.3,
+    "status": "Acima do peso"
+  },
+  {
+    "from": 32.4,
+    "to": 1000,
+    "status": "Obesidade"
+  }
+]
